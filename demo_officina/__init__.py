@@ -1,5 +1,7 @@
 """Paquete demo para cards de officina."""
 
+from demo_officina.saludar import saludar as saludar
+
 __version__ = "0.1.0"
 
 
