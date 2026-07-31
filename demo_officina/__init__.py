@@ -2,6 +2,7 @@
 
 from demo_officina.saludar import saludar as saludar
 from demo_officina.despedir import despedir as despedir
+from demo_officina.susurrar import susurrar as susurrar
 
 __version__ = "0.1.0"
 
