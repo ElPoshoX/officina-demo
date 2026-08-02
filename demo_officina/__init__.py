@@ -4,6 +4,7 @@ from demo_officina.saludar import saludar as saludar
 from demo_officina.despedir import despedir as despedir
 from demo_officina.duplicar import duplicar as duplicar
 from demo_officina.susurrar import susurrar as susurrar
+from demo_officina.triplicar import triplicar as triplicar
 
 __version__ = "0.1.0"
 
