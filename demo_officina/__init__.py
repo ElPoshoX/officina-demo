@@ -1,6 +1,7 @@
 """Paquete demo para cards de officina."""
 
 from demo_officina.saludar import saludar as saludar
+from demo_officina.contar_susurros import contar_susurros as contar_susurros
 from demo_officina.despedir import despedir as despedir
 from demo_officina.duplicar import duplicar as duplicar
 from demo_officina.susurrar import susurrar as susurrar
