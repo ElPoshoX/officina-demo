@@ -5,6 +5,7 @@ from demo_officina.despedir import despedir as despedir
 from demo_officina.duplicar import duplicar as duplicar
 from demo_officina.susurrar import susurrar as susurrar
 from demo_officina.susurrar import susurrar_dos_veces as susurrar_dos_veces
+from demo_officina.susurrar import contar_susurros as contar_susurros
 from demo_officina.triplicar import triplicar as triplicar
 
 __version__ = "0.1.0"
